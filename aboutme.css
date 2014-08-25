@@ -1,0 +1,13 @@
+.fampix {
+	padding-left:400px;
+	background-color: #FFFFCC;
+}
+.cellbox {
+	background-color: orange;
+	width:200px;
+	height:400px;
+	opacity: 0.4;
+	float:left;
+	position:fixed;
+	z-index: 1;
+}
